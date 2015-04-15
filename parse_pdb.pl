@@ -54,7 +54,7 @@ my $len = length($seq);
 print "Number of Amino acids: $len\n\n";
 }
 
-#calculate molecular weight and extinction coeeficient
+#calculate molecular weight and extinction coefficient
 sub wt_eco{
 	my @pdb2 = @_;
 	my $tyr = 0;
