@@ -4,4 +4,4 @@ on protein amino acid composition.
 
 ####Usage
 
-$ perl parse_pdb.pl file.pdb chainID
+    $ perl parse_pdb.pl file.pdb chainID
